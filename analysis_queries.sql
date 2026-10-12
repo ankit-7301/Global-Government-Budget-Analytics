@@ -2,7 +2,6 @@ CREATE DATABASE IF NOT EXISTS global_budget_db;
 USE global_budget_db;
 
 
-
 CREATE TABLE IF NOT EXISTS countries (
     country_id INT AUTO_INCREMENT PRIMARY KEY,
     country_name VARCHAR(100) UNIQUE NOT NULL
