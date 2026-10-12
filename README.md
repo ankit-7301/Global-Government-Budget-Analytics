@@ -1,6 +1,6 @@
 # 🌍 Global Government Budget Analytics
 
-A Python and MySQL-based analytics project for exploring **government budgets, sector allocations, spending trends, anomalies, volatility, and future budget projections** across countries
+A Python and MySQL-based analytics project for exploring **government budgets, sector allocations, spending trends, anomalies, volatility, and future budget projections** across countries.
 
 The project includes a Python ETL pipeline, normalized MySQL database, statistical analysis modules, and an interactive Streamlit dashboard.
 
